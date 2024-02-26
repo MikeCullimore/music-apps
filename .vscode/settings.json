@@ -1,4 +1,5 @@
 {
     "cSpell.language": "en-GB",
-    "cSpell.words": ["fretboard"]
+    "cSpell.words": ["fretboard"],
+    "editor.formatOnSave": true
 }
